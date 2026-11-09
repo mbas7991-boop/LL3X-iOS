@@ -1,0 +1,6 @@
+# Xcode build products and user-specific workspace state
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+.DS_Store
